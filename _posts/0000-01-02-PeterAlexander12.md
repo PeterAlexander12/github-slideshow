@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-COWABUNGA!
+kaching!
 Use the left arrow to go back!
